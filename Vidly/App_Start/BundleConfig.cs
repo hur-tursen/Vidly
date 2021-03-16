@@ -24,7 +24,7 @@ namespace Vidly
 
             bundles.Add(new StyleBundle("~/Content/css").Include(
                       "~/Content/bootstrap3-cerulean.css",
-                      "~/Content/site.css"));
+                      "~/Content/Site.css"));
         }
     }
 }
